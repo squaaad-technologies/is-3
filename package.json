@@ -1,6 +1,6 @@
 {
-  "name": "is-3",
-  "version": "1.0.0",
+  "name": "is-three",
+  "version": "1.0.1",
   "description": "Checks if a value is equal to 3 or not",
   "main": "index.js",
   "scripts": {

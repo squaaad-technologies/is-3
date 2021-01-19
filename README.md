@@ -1,9 +1,9 @@
-# is-3
+# is-three
 Checks if a number is equal to 3 or not.
 
 # Documentation
 
-`const is3 = require('is-3')`
+`const is3 = require('is-three')`
 
 now you can use it in your projects!
 
