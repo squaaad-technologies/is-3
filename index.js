@@ -1,0 +1,1 @@
+module.exports=function(value){return Number(value) == 3}

@@ -1,0 +1,22 @@
+{
+  "name": "is-3",
+  "version": "1.0.0",
+  "description": "Checks if a value is equal to 3 or not",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squaaad-technologies/is-3.git"
+  },
+  "keywords": [
+    "is",
+    "3",
+    "is3"
+  ],
+  "author": "Jai @ squaaad technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squaaad-technologies/is-3/issues"
+  }
+}
